@@ -15,9 +15,3 @@ public class AadharAttributes {
             AADHAR_STATE_ATTR = "state",
             AADHAR_PC_ATTR = "pc";
 }
-
-//    <?xml version="1.0" encoding="UTF-8"?>
-//<PrintLetterBarcodeData uid="495074476430" name="Nandagopal Ravichandran" gender="M"
-// yob="1991" gname="RAVICHANDIRAN NEELAMEGAM" co="S/O: Ravichandran" house="2/786"
-// lm="INDIRA NAGAR PALANI ROAD" vtc="Pallapatti" po="Pallapatti" dist="Dindigul" subdist="Dindigul"
-// state="Tamil Nadu" pc="624002" dob="30/04/1991"/>
